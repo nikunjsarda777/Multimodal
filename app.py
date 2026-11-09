@@ -11,8 +11,7 @@ import streamlit as st
 From Goa to Ames
 A personal narrative multimodal remix built with Python and Streamlit.
 
-Run from the project folder:
-    python -m streamlit run app.py
+
 """
 
 from pathlib import Path
