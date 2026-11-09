@@ -487,9 +487,9 @@ st.markdown(
     """
     <div class="credits">
         <strong>Photo notes</strong><br>
-        Personal photographs supplied for this project are used for the villa goodbye,
-        dorm move-in, BITS sunset, Ames neighborhood, and Seasons Marketplace scenes.
-        The BITS Goa and Iowa State campus images are supplied separately in the images folder.
+        Personal photographs used for this project are used for the villa goodbye,
+        dorm move-in, BITS sunset, Ames neighborhood.
+        The BITS Goa, Seasons Marketplace and Iowa State campus images are from the internet.
         The written narration is adapted from the personal narrative.
     </div>
     <footer>
