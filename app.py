@@ -8,9 +8,6 @@ Created on Sun Nov  8 23:18:22 2026
 import streamlit as st
 
 """
-From Goa to Ames
-A personal narrative multimodal remix built with Python and Streamlit.
-
 
 """
 
